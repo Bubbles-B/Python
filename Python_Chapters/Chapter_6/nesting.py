@@ -1,3 +1,4 @@
+#Listing 6.1
 #A List of Dictionaries:
 # List of dictionaries, each representing a car's details
 cars = [
@@ -48,6 +49,7 @@ for username, user_info in users.items():
     
     print(f"Full Name: {full_name}")
     print(f"Location: {location}")
+
 
 
 
